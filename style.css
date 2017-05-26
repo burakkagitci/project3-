@@ -1,0 +1,94 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.master{
+	width: 960px;
+	margin: 0 auto;
+}
+
+.home{
+	background-image:url(diplo-middle-fingers.jpg);
+	margin-left: auto;
+	margin-right: auto;
+	color: #FFFFFF;
+	
+}
+.tours{
+	background-color: #060505;
+	background-image: cover;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: auto;
+	padding-right: auto;
+	
+
+}
+
+.tour_body {
+	background-image: url(tourdates.png);
+	height: 1200px;
+	
+}
+
+
+
+.festival_body {
+	background-image: url(boat.jpg);
+	height: 1200px;
+	font-family: 'Radnika-Regular',"Hoefler Text", "Liberation Serif", "serif";
+	font-size: 20px;
+}
+
+.contact_body {
+	background-image: url(back.jpeg);
+	margin-bottom: auto;
+	padding-bottom: 950px;
+	
+	
+}
+
+
+.social {
+width: 515px;
+float: right;
+margin-right: -340px;
+height: 0px;	
+list-style: none;
+}
+
+
+#wrapper{
+	background-color: #030202;
+	width: 600px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 60px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+
+
+
+header {
+	background-color: #FFFFFF;
+	background-image:; 
+	height: 300px;
+	width: 960px;}
+
+
+.contentbox {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 25px;
+	background-color: #040303;
+	height: 350px;
+	width: 450px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-top: auto;
+	clear: left;
+	padding-bottom: 30px;
+	padding-top: 50px;
+}
